@@ -1,0 +1,7 @@
+.logo-wrapper {
+    height: 60px;
+    &__logo {
+        height: 100%;
+        object-fit: contain;
+    }
+}
